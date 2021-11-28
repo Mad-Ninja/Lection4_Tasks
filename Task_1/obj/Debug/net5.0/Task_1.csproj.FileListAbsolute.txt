@@ -1,0 +1,16 @@
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.exe
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.deps.json
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.json
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.dev.json
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.dll
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\ref\Task_1.dll
+D:\Lections Exadel\Task_Lection4\Task_1\bin\Debug\net5.0\Task_1.pdb
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.csproj.AssemblyReference.cache
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfoInputs.cache
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfo.cs
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.dll
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\ref\Task_1.dll
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.pdb
+D:\Lections Exadel\Task_Lection4\Task_1\obj\Debug\net5.0\Task_1.genruntimeconfig.cache
